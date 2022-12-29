@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <GlobalProvider>
         <Navigasi />
-        <h1><marquee>Popular Movie</marquee></h1>
+        <h1>Popular Movie</h1>
         <Popular />
       </GlobalProvider>
     </div>
